@@ -1,0 +1,12 @@
+INSERT INTO work(id, name, status, starting_date, ending_date) VALUES (1, "get up", "COMPLETE", "2021-03-02 06:00:00", "2021-03-02 06:00:00");
+INSERT INTO work(id, name, status, starting_date, ending_date) VALUES (2, "Brush teeth", "COMPLETE", "2021-03-02 06:00:00", "2021-03-02 06:15:00");
+INSERT INTO work(id, name, status, starting_date) VALUES (3, "Take a show", "DOING", "2021-03-02 06:30:00");
+INSERT INTO work(id, name, status) VALUES (4, "Cooking", "PLANNING");
+INSERT INTO work(id, name, status) VALUES (5, "Have breakfast", "PLANNING");
+INSERT INTO work(id, name, status) VALUES (6, "Go to work", "PLANNING");
+INSERT INTO work(id, name) VALUES (7, "Have lunch");
+INSERT INTO work(id, name) VALUES (8, "Go home");
+INSERT INTO work(id, name) VALUES (9, "Cook diner");
+INSERT INTO work(id, name) VALUES (10, "Have dinner");
+INSERT INTO work(id, name) VALUES (11, "Watch TV");
+INSERT INTO work(id, name) VALUES (12, "Go to bed");
